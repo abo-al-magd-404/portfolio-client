@@ -45,7 +45,4 @@ This project is designed to be deployed on Netlify. Please ensure that the envir
 ## Author Information
 - **Name:** Abo Al Magd
 - **GitHub:** [abo-al-magd-404](https://github.com/abo-al-magd-404)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-Created on 2026-02-07 14:49:46 (UTC)
+- **Email:** [abo.al.magd.404@gmail.com](mailto:abo.al.magd.404@gmail.com)
